@@ -37,7 +37,6 @@
     position: relative;
     height: 156px;
     overflow: hidden;
-    /* clip: rect(0, 100px, 200px, 0); */
     border-radius: 3px 3px 0px 0px;
 }
 
@@ -45,7 +44,6 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    /* -webkit-object-fit: cover; */
 }
 
 .date{
